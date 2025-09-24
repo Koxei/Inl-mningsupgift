@@ -1,0 +1,28 @@
+Individuell inlämningsuppgift.
+
+Programmeringsdel:
+
+För G:
+Skapa ett program som innehåller minst 3 egengjorda klasser (exclusive Main-klass och t.ex. Program-klass , 1 superklass och en algoritm. 
+Algoritmen kan vara t.ex. en egengjord sorteringsfunktion, eller sökfunktion. Eller något helt annat!
+
+Programmet ska kunna gå att använda utan att ändra i koden, d.v.s det behöver finnas något sätt för en användare att skicka input, och få output. Exempelvis genom scanner. 
+
+Programmet skall lösa en specifik uppgift. Vilken uppgift det är, är upp till dig.
+Men det skall alltså inte bara vara en samling slumpade objekt + en algoritm. 
+
+För VG:
+Alla krav för G. Programmet ska antingen någon typ av användargränssnitt gjort med Swing eller något sätt att spara och läsa information, exempelvis genom att skriva och läsa från en csv-fil. Eller bade och :).
+Koden skall vara väl formatterad så att den är enkel att förstå och kommenterad på de ställen som kräver det, använd dig av clean-code principer! 
+
+
+Reflektion:
+
+Lämna in en kort redogörelse för ditt program där du besvarar följande frågor:
+
+Vad är syftet med ditt program? Vilken uppgift ska ditt program lösa, och på vilket sätt löser programmet denna uppgift?
+Vilka frameworks och/eller libraries har du använt dig av? I vilket syfte är dessa använda?
+Vad gick bra? Vad hade kunnat gå bättre?
+
+
+Inlämning görs via GitHub, skapa ett repo, se till att det är public, och pusha din kod dit. När du lämnar in på learnpoint så skickar du in länken till ditt repo!
